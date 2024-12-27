@@ -1,4 +1,6 @@
 # Telecom
-git clone https://github.com/ahmedbmbm/Telecom.git \n
-cd Telecom \n
+git clone https://github.com/ahmedbmbm/Telecom.git 
+
+cd Telecom 
+
 python3 main.py 
